@@ -13,9 +13,7 @@ class App extends Component {
         <p className="App-intro">
 	    Welcome to Nodejs react page.
           To get started, edit <code>src/App.js</code> and save to reload.
-	        Numerical Computing with Python
-		Python Programming Blueprints
-		Raspberry Pi Image Processing Programming 
+	    This is chaned to test the testing branch.
         </p>
       </div>
     );
