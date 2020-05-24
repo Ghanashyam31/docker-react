@@ -14,6 +14,12 @@ class App extends Component {
 	    Welcome to Nodejs react page.
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+	<div className="App-detail">
+		<B> GIT HUB and TRAVIS and AWS ElasticBeanStalk Information </B>
+	       Numerical Computing with Python
+		Python Programming Blueprints
+		Raspberry Pi Image Processing Programming 
+	</div>
       </div>
     );
   }
